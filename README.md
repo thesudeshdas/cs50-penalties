@@ -22,7 +22,7 @@ Penalties is a mini football game made in Scratch
 
 ## 🛣️ Future Roadmap
 
-> The game was made under [CS50x Intro to Computer Science](https://cs50.harvard.edu/x/2022/) and thus there are no future plans of adding new features.
+> The game was made under [CS50x Intro to Computer Science](https://cs50.harvard.edu/x/2023/) and thus there are no future plans of adding new features.
 
 
 ## 👨‍💻 Connect with me
